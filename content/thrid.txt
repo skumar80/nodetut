@@ -1,0 +1,1 @@
+Here is the result new: this is first file content, this is second file content
