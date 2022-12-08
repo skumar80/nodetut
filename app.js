@@ -12,3 +12,4 @@ const _ = require('lodash')
 const items = [1, [2, [3, [4, [5]]]]]
 const newitem = _.flattenDeep(items)
 console.log(newitem)
+console.log('Hello world with nodemon')
